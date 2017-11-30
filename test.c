@@ -119,3 +119,4 @@ int main (void)
 } 
 
 //size_t      size_file(FILE *file);
+https://openclassrooms.com/courses/parcourir-les-dossiers-avec-dirent-h
